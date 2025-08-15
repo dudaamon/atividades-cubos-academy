@@ -20,8 +20,9 @@ As atividades incluem criação de APIs, manipulação de arquivos, PostgreSQL, 
 ├── Leitura e Escrita em Arquivos
 ├── Criando o Primeiro Servidor
 └── Usando Programação Assíncrona
-├── Cálculo de Frete
-└── API Pokemon
+└── Rotas, Intermediários e Controladores
+  ├── Cálculo de Frete
+  └── API Pokemon
 
 ```
 
