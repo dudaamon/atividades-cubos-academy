@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Airbnb",
+    "domain": "airbnb.com",
+    "year_founded": 2008,
+    "industry": "Internet",
+    "employees_count": 14604,
+    "locality": "San Francisco",
+    "country": "United States",
+    "linkedin_url": "linkedin.com/company/airbnb"
+  },
+  {
+    "name": "Google",
+    "domain": "google.com",
+    "year_founded": 1998,
+    "industry": "Internet",
+    "employees_count": 219238,
+    "locality": "Mountain View",
+    "country": "United States",
+    "linkedin_url": "linkedin.com/company/google"
+  },
+  {
+    "name": "Amazon",
+    "domain": "amazon.com",
+    "year_founded": 1994,
+    "industry": "Internet",
+    "employees_count": 500669,
+    "locality": "Seattle",
+    "country": "United States",
+    "linkedin_url": "linkedin.com/company/amazon"
+  },
+  {
+    "name": "Enel Group",
+    "domain": "enel.com",
+    "year_founded": 1962,
+    "industry": "Utilities",
+    "employees_count": 30749,
+    "locality": null,
+    "country": null,
+    "linkedin_url": "linkedin.com/company/enelgroup"
+  }
+]
